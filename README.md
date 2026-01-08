@@ -44,13 +44,3 @@
   <a href="https://jestjs.io" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/></a>
   <a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
 </p>
-
----
-
-## 📊 My GitHub Stats
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alessandrodiaz&show_icons=true&theme=dark&locale=en&layout=compact" alt="alessandrodiaz" />
-  <br/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=alessandrodiaz&show_icons=true&theme=dark&locale=en" alt="alessandrodiaz" />
-</p>
